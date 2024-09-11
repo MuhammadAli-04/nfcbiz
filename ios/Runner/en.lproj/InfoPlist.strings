@@ -1,0 +1,3 @@
+NSCameraUsageDescription = "In order to scan for barcodes and QR codes, this app requires permission to access the camera.";
+NSContactsUsageDescription = "In order to save contact, this app requires permission to access the contact";
+NFCReaderUsageDescription = "Allow NFC Permission for Read and Write NFC Cards.";
